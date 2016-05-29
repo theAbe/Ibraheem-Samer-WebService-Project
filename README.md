@@ -28,7 +28,7 @@ the first provider hosts 6 web services which are :
 
 
 Client :
-Our client will be a desktop application  that invokes service operations.
+Our client will be a web  application  that invokes service operations.
 
 
 Service Providers :
