@@ -43,7 +43,7 @@ the sixth service allows the admin to move a book from the available books to th
 the seventh service allows the admin to add a book to the database 
 
 
-Client : Java 
+Client : JSF ( JavaServer Faces )   and primeFaces
 
 Service provider will implement the  SOAP style and use the java programming language and will use the GlassFish web server 
 and the data layer is MySQL database.
