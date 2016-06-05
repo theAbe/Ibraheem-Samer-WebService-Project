@@ -17,7 +17,7 @@ this web service will provide a simple program that can be used by libraries .
 Proposed Architecture :
 
 our system will consist of 1 service provider . 
-the first provider hosts 6 web services which are :
+the first provider hosts 11 web services which are :
 1-show all books
 2-show available books
 3-show borrowed books 
@@ -25,6 +25,10 @@ the first provider hosts 6 web services which are :
 5-return books
 6-check out books 
 7- add books 
+8- add a client
+9- delete a client
+10- get All Clients
+11- get Books borrowed by a client
 
 
 Client :
